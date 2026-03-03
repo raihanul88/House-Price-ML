@@ -1,5 +1,5 @@
-# house-price-ml
-# House Price Prediction using Machine Learning
+# House-price-ml
+House Price Prediction using Machine Learning
 
 # Project Overview
 This project predicts house prices using the California Housing dataset.  
